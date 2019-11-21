@@ -5,4 +5,4 @@ Uses: **HTML5, CSS, JS**.
 
 In this project I practiced my JavaScript skills.
 
-[Code Pen version](https://codepen.io/spline/pen/GRRPxae) || [Git Pages](https://splinekonstantin.github.io/ColorGame/)
+[Code Pen](https://codepen.io/spline/pen/LYYMQdN) || [Git Pages](https://splinekonstantin.github.io/ColorGame/)
